@@ -2,7 +2,6 @@
 #define USERS_H
 
 #include "coms.h"
-
 typedef struct user
 {
 		struct sockaddr_in peer;
